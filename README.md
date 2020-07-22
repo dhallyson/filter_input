@@ -1,8 +1,8 @@
 # filter_input <br>
-O link para a aula no youtube: https://www.youtube.com/watch?v=_mGo9AuvpXw
+O link para a aula no youtube: https://www.youtube.com/watch?v=_mGo9AuvpXw <br>
 <br>
 A diferença entre o SANITIZE e o VALIDATE: <br>
-SANITIZE vem do inglês higienizar ou seja ele limpa todo e qualquer valor que possa ser caracterizado como um HTML/SCRIPT. <br>
+<b>SANITIZE</b> vem do inglês higienizar ou seja ele limpa todo e qualquer valor que possa ser caracterizado como um HTML/SCRIPT. <br>
 VALIDATE vem do inglês validar ou seja ele valida valores de acordo com os padrões <br>
 <br>
 FILTER_SANITIZE_STRING = Remove todas as tags HTML de uma sequência <br>
